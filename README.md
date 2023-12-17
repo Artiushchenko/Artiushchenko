@@ -26,6 +26,8 @@
 
 <h3 align="left">👩‍💻  ABOUT ME</h3>
 
+***
+
 ###
 
 <p align="center">My name is Kirill! I'm Front End Developer from Ukraine. My goal is to become a cool developer in order to create incredible projects that will help people in the future.</p>
