@@ -22,6 +22,8 @@
 
 <h1 align="center">Hi🖐! What’s up?</h1>
 
+***
+
 ###
 
 <h3 align="left">👩‍💻  ABOUT ME</h3>
@@ -38,7 +40,11 @@
 
 ###
 
+***
+
 <h3 align="left">🖥 TECHNOLOGIES THAT I USE</h3>
+
+***
 
 ###
 
@@ -66,7 +72,11 @@
 
 ###
 
+***
+
 <h3 align="left">⌨️ TOOLS</h3>
+
+***
 
 ###
 
@@ -80,7 +90,11 @@
 
 ###
 
+***
+
 <h3 align="left">👨‍🎓 CERTIFICATES</h3>
+
+***
 
 ###
 
@@ -91,7 +105,11 @@
 
 ###
 
+***
+
 <h3 align="left">🔥 GIT STATS</h3>
+
+***
 
 ###
 
