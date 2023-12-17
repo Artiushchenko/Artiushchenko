@@ -78,13 +78,7 @@
 
 ###
 
-<h3 align="left">🔥  MY STATS</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Artyushchenko&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<h3 align="left">👨‍🎓 CERTIFICATES</h3>
 
 ###
 
@@ -93,3 +87,14 @@
 | **Frontend Development** | <a target="_blank" href="https://testprovider.com/ru/search-certificate/TP06812203D"><img style="width: 30%;" src="https://i.ibb.co/qWWkc0V/Certificate-Frontend-Artiushchenko.png"/></a> | 08/2023 |
 | **Coding Maraphone** | <a target="_blank" href="https://i.ibb.co/wNgrV7h/Certificate-Maraphone-Artiushchenko.png"><img style="width: 30%;" src="https://i.ibb.co/wNgrV7h/Certificate-Maraphone-Artiushchenko.png"/></a> | 12/2023 |
 
+###
+
+<h3 align="left">🔥 GIT STATS</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Artyushchenko&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
