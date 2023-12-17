@@ -20,9 +20,8 @@
 
 ###
 
-<h1 align="center">Hi🖐! What’s up?</h1>
+<h2 align="center">Hi🖐! What’s up?</h1>
 
-***
 
 ###
 
@@ -39,8 +38,6 @@
 <p align="left">- 🔭 I am constantly in the process of learning new technologies.<br>- 🎯 I create exciting projects.<br>- 🏆 I devote my free time to sports.</p>
 
 ###
-
-***
 
 <h3 align="left">🖥 TECHNOLOGIES THAT I USE</h3>
 
@@ -72,8 +69,6 @@
 
 ###
 
-***
-
 <h3 align="left">⌨️ TOOLS</h3>
 
 ***
@@ -90,8 +85,6 @@
 
 ###
 
-***
-
 <h3 align="left">👨‍🎓 CERTIFICATES</h3>
 
 ***
@@ -104,8 +97,6 @@
 | **Coding Maraphone** | <a target="_blank" href="https://i.ibb.co/wNgrV7h/Certificate-Maraphone-Artiushchenko.png"><img style="width: 30%;" src="https://i.ibb.co/wNgrV7h/Certificate-Maraphone-Artiushchenko.png"/></a> | 12/2023 |
 
 ###
-
-***
 
 <h3 align="left">🔥 GIT STATS</h3>
 
