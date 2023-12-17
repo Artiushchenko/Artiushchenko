@@ -12,22 +12,11 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Artyushchenko/count.svg?"  />
-</div>
-
-###
-
-<h2 align="center">Hi🖐! What’s up?</h1>
-
-
-###
-
 <h3 align="left">👩‍💻  ABOUT ME</h3>
 
 ***
+
+<h2 align="center">Hi🖐! What’s up?</h2>
 
 ###
 
