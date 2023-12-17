@@ -87,3 +87,9 @@
 </div>
 
 ###
+
+| Name | Certificate | Date |
+|:-------------: |:---------------:| -------------:|
+| **Frontend Development** | <a target="_blank" href="https://testprovider.com/ru/search-certificate/TP06812203D"><img style="width: 25%;" src="https://ibb.co/ZYYWFH7"/></a> | 08/2023 |
+| **Coding Maraphone** |  | 12/2023 |
+
