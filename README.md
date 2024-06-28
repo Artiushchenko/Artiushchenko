@@ -24,10 +24,6 @@
 
 ###
 
-<p align="left">- 🔭 I am constantly in the process of learning new technologies.<br>- 🎯 I create exciting projects.<br>- 🏆 I devote my free time to sports.</p>
-
-###
-
 <h3 align="left">🖥 TECHNOLOGIES THAT I USE</h3>
 
 ***
