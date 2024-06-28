@@ -24,6 +24,8 @@
 
 ###
 
+***
+
 <h3 align="left">🖥 TECHNOLOGIES THAT I USE</h3>
 
 ***
