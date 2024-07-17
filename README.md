@@ -74,3 +74,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Artyushchenko/Artyushchenko/output/snake.svg" alt="Snake animation" />
+
+###
