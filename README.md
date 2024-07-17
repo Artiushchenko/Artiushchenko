@@ -56,13 +56,6 @@
 
 ###
 
-| Name | Certificate | Date |
-|:-------------: |:---------------:| :-------------:|
-| **Frontend Development** | <a target="_blank" href="https://testprovider.com/ru/search-certificate/TP06812203D"><img style="width: 30%;" src="https://i.ibb.co/qWWkc0V/Certificate-Frontend-Artiushchenko.png"/></a> | 08/2023 |
-| **Coding Maraphone** | <a target="_blank" href="https://i.ibb.co/wNgrV7h/Certificate-Maraphone-Artiushchenko.png"><img style="width: 30%;" src="https://i.ibb.co/wNgrV7h/Certificate-Maraphone-Artiushchenko.png"/></a> | 12/2023 |
-
-###
-
 <h3 align="left">🔥 GIT STATS</h3>
 
 ***
