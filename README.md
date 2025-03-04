@@ -1,4 +1,4 @@
-```
+```js
 import Developer from 'kyrylo.artiushchenko';
 
 class Biography extends Developer {
