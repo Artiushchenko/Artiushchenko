@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
     <img alt="K.A." height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
-</p>
+</div>
 
 ```js
 import Developer from 'kyrylo.artiushchenko';
