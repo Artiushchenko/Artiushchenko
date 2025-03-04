@@ -1,4 +1,12 @@
-<img align="center" alt="K.A." height=250 width=350 src="https://goo.su/MD3uqN" />
+<p align="center">
+    <img alt="K.A." height=250 width=350 src="https://goo.su/MD3uqN" />
+</p>
+
+<p align="center"> 
+    Visitor count
+    <br>
+    <img src="https://profile-counter.glitch.me/Artyushchenko/count.svg" />
+</p>
 
 ```js
 import Developer from 'kyrylo.artiushchenko';
