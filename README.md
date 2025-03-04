@@ -1,4 +1,4 @@
-<img align="center" alt="K.A." height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img align="center" alt="K.A." height=250 width=350 src="https://goo.su/MD3uqN" />
 
 ```js
 import Developer from 'kyrylo.artiushchenko';
