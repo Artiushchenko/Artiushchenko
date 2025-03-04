@@ -11,7 +11,7 @@ import Developer from 'kyrylo.artiushchenko';
 
 class Biography extends Developer {
     name    = 'Kyrylo Artiushchenko';
-    title   = 'Full Stack Developer';
+    position   = 'Full Stack Developer';
     country = 'Ukraine';
     interests = ['Machine Learning', 'Web Development'];
 }
