@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://goo.su/9RZzNFv" />
+</p>
+
 ```js
 import Developer from 'kyrylo.artiushchenko';
 
