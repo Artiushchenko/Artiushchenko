@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="K.A." height=100 width=200 src="https://goo.su/Kzta7" />
+    <img alt="K.A." height=150 width=250 src="https://goo.su/Kzta7" />
 </p>
 
 <p align="center"> 
