@@ -1,5 +1,5 @@
 <p align="center">
-  <img height=150 width=250 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+    <img alt="K.A." height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 </p>
 
 ```js
