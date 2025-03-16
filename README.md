@@ -19,7 +19,7 @@ class Biography extends Developer {
 class HardSkills extends Developer {
     languages  = ['JavaScript', 'TypeScript', 'C', 'C++', 'C#', 'PHP'];
     databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-    frameworks = ['React', 'Angular', 'Vue', 'Laravel', 'Next.js', 'Nest.js', 'Tailwind CSS'];
+    frameworks = ['React', 'Angular', 'Vue', 'Laravel', 'Next.js', 'Nest.js', 'Nuxt.js', 'Tailwind CSS'];
     tools      = ['Git', 'Docker', 'Vite', 'ESLint', 'Prettier'];
 }
 
