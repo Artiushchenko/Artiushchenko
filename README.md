@@ -12,7 +12,7 @@ import Developer from 'kyrylo.artiushchenko';
 class Biography extends Developer {
     name      = 'Kyrylo Artiushchenko';
     position  = 'Full Stack Developer';
-    country   = 'Ukraine';
+    country   = 'Germany';
     interests = ['Machine Learning', 'Web Development'];
 }
 
